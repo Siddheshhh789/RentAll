@@ -1,0 +1,32 @@
+a{
+    text-decoration: none;
+   }
+   .nav-bottom{
+    padding: 12px;
+    background: #341d1d;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    color: aliceblue;
+   }
+   .product{
+    width:100%;
+   }
+   .product-detail{
+    font-size: 17px;
+   }
+   .button-2{
+    margin-top: 50px;
+   }
+.btn-size{
+    width:32vh;
+}
+.rel-product{
+   width: 10rem;
+}
+
+.tech-img{
+    box-sizing: border-box;
+
+}

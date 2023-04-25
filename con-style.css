@@ -1,0 +1,28 @@
+.form-2{
+    width: 80vh;
+  margin-left: 65vh;
+  margin-bottom: 30px;
+  }
+   .btn{
+    width: 20vh;
+   }
+  
+   .contact-name{
+    width:37vh;
+   }
+   .frm-3{
+    display: flex;
+    justify-content: space-between;
+   }
+  
+   .label-2{
+    margin-right: 5vh;
+   }
+   h6{
+    display: inline-block
+    ;
+   }
+
+   /* css for product  */
+
+ 
